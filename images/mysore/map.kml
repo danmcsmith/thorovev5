@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Untitled layer</name>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Mysore Music House</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.624021,12.324966,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gokul Chats</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6319139,12.3347571,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Cocoa Vault</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6290427,12.3349147,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Santosha Cafe</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.630079,12.334122,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Suyoga Anna Cafe and Massage</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.628753,12.330862,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Depth N Green - ಡೆಪ್ತ್ ಎನ್ ಗ್ರೀನ್</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6287544,12.3307474,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Krishna Tailor</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6286925,12.3307358,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>DRC CINEMAS</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6207429,12.3214127,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Hotel Sri Durga Bhavan</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6294619,12.3302854,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>SAYOGA</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6305897,12.3247701,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Lokapavani Upahar</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6316875,12.3238344,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Udupikar's Veg Restaurant]]></name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6281796,12.325329,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Anima Madhva Bhavan</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.623942,12.324909,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Loyal World Complex</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.630486,12.3232187,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Devaraja Market</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6517974,12.3114102,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mysore Palace</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6540859,12.3050888,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Rashinkar Silks ,Emporium And Book House</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.653682,12.310094,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Om Shanthi (Hotel Siddharta) - Vegetarian Restaurant</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6604908,12.3080392,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Mysore Zoo</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.663606,12.302766,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Chamundi hills steps parking</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6662173,12.2843214,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Brindavan Gardens</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.5724831,12.4216211,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sri Sharada Grand Musical Works</name>
+      <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          76.6493177,12.3115261,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
